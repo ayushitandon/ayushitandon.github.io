@@ -12,7 +12,7 @@ font-weight:700;}
 	padding-top:50px;
 	padding-bottom:50px;
 	text-align:center;color:#f8f8f8;
-	background-image:url(cover2.jpg);
+	background-image:url(/cover2.jpg);
 ;background-position:center;background-attachment:fixed;
 background-size:cover}
 .intro-message{position:relative;padding-top:20%;padding-bottom:20%}
