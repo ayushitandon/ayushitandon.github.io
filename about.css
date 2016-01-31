@@ -1,0 +1,36 @@
+body,html{
+width:100%;height:100%}
+body,h1,h2{
+font-family:"Libre Baskerville";
+font-weight:700;}
+.topnav{font-size:20px;
+}
+.lead{font-size:20px;font-weight:400;}
+	p{font-size:20px;font-weight:40;}
+.intro-header{
+	padding-top:50px;
+	padding-bottom:50px;
+	text-align:center;color:#f8f8f8;
+	background-image:url(aboutcover.jpeg);
+;background-position:center;background-attachment:fixed;
+background-size:cover}
+.intro-message{position:relative;padding-top:20%;padding-bottom:20%}
+.intro-message>h1{margin:0;text-shadow:2px 3px 3px rgba(0,0,0,.6);font-size:5em}
+.intro-divider{
+	width:400px;border-top:1px solid #f8f8f8;border-bottom:1px solid rgba(0,0,0,.2)}
+	.intro-message>h3{text-shadow:2px 2px 3px rgba(0,0,0,.6);padding:0 50px 0 50px}
+	@media(max-width:767px){.intro-message{padding-bottom:15%}
+	.intro-message>h1{font-size:3em}
+	.navbar{
+    font-family:"Noto Serif";
+    font-size: 30px;
+    padding: 10px;
+    background: rgba(0,0,0,0.5);
+    color: #7f1a1a;}
+
+    .navbar-brand {
+      font-size: 40px;
+      font-family:"Libre Baskerville";
+    }
+
+
