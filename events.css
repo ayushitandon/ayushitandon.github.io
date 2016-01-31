@@ -6,8 +6,7 @@ font-weight:700;}
 .topnav{font-size:20px;
 }
 .lead{font-size:20px;font-weight:400;}
-	p{font-size:20px;font-weight:40;
-		}
+	p{font-size:20px;font-weight:40;}
 .intro-header{
 	padding-top:50px;
 	padding-bottom:50px;
@@ -32,7 +31,7 @@ background-size:cover}
     .navbar-brand {
       font-size: 40px;
       font-family:"Libre Baskerville";
-    
+    }
    
 
 
